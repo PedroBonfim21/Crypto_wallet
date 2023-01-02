@@ -1,0 +1,14 @@
+=> [{[33m:description[0m=>[31m[1;31m"[0m[31mBitcoin[1;31m"[0m[31m[0m,
+  [33m:acronym[0m=>[31m[1;31m"[0m[31mBTC[1;31m"[0m[31m[0m,
+  [33m:url_image[0m=>[31m[1;31m"[0m[31mhttps://logospng.org/download/bitcoin/logo-bitcoin-2048.png[1;31m"[0m[31m[0m},
+ {[33m:description[0m=>[31m[1;31m"[0m[31mEthereum[1;31m"[0m[31m[0m,
+  [33m:acronym[0m=>[31m[1;31m"[0m[31mETH[1;31m"[0m[31m[0m,
+  [33m:url_image[0m=>
+   [31m[1;31m"[0m[31mhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCRfwkqpPvFb3QmmwGONG2i6PsgnqZ3L7dRzCNlaSTB1-ruu5[1;31m"[0m[31m[0m},
+ {[33m:description[0m=>[31m[1;31m"[0m[31mDash[1;31m"[0m[31m[0m,
+  [33m:acronym[0m=>[31m[1;31m"[0m[31mDASH[1;31m"[0m[31m[0m,
+  [33m:url_image[0m=>[31m[1;31m"[0m[31mhttps://ih1.redbubble.net/image.406055498.8711/ap,550x550,12x12,1,transparent,t.png[1;31m"[0m[31m[0m},
+ {[33m:description[0m=>[31m[1;31m"[0m[31mIota[1;31m"[0m[31m[0m,
+  [33m:acronym[0m=>[31m[1;31m"[0m[31mIOT[1;31m"[0m[31m[0m,
+  [33m:url_image[0m=>[31m[1;31m"[0m[31mhttps://s2.coinmarketcap.com/static/img/coins/200x200/1720.png[1;31m"[0m[31m[0m},
+ {[33m:description[0m=>[31m[1;31m"[0m[31mZCash[1;31m"[0m[31m[0m, [33m:acronym[0m=>[31m[1;31m"[0m[31mZEC[1;31m"[0m[31m[0m, [33m:url_image[0m=>[31m[1;31m"[0m[31mhttps://www.cryptocompare.com/media/351360/zec.png[1;31m"[0m[31m[0m}]

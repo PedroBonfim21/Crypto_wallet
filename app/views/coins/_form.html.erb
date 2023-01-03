@@ -25,6 +25,14 @@
     <%= form.label :url_image %>
     <%= form.text_field :url_image, id: :coin_url_image %>
   </div>
+  
+<div class="field">
+ <%= form.label :mining_type_id %>
+ <%= a=MiningType.all.collect{|m|[ m.description, m.id]}
+ %>
+ <%= form.select(Coin,"mining_type_id")
+%>
+ </div>
 
   <div class="actions">
     <%= form.submit %>
